@@ -1,0 +1,3 @@
+vimeo_downloader
+yt-dlp
+openai-whisper
